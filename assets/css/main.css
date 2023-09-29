@@ -1778,6 +1778,7 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
+			width: 50%; /* AS edit */
 			margin: 0 2em 2em 0;
 		}
 
